@@ -2,21 +2,27 @@
 Type=Service
 Exec=blubb
 Comment=This plugin provides a frontend for Crossfire
+Comment[es]=Este complemento proporciona una interfaz para Crossfire
 Comment[nl]=Deze plugin levert een frontend voor Crossfire
 Comment[pt]=Este 'plugin' oferece uma interface para o Crossfire
 Comment[pt_BR]=Este plugin oferece uma interface para o Crossfire
+Comment[sk]=Tento plugin poskytuje rozhranie pre Crossfire
 Comment[uk]=Цей додаток є оболонкою до Crossfire
 Comment[x-test]=xxThis plugin provides a frontend for Crossfirexx
 Name=Crossfire Support
+Name[es]=Implementación de Crossfire
 Name[nl]=Ondersteuning van Crossfire
 Name[pt]=Suporte para o Crossfire
 Name[pt_BR]=Suporte ao Crossfire
+Name[sk]=Podpora Crossfire
 Name[uk]=Підтримка Crossfire
 Name[x-test]=xxCrossfire Supportxx
 GenericName=Debugger Frontend
+GenericName[es]=Interfaz del depurador
 GenericName[nl]=Frontend voor debugger
 GenericName[pt]=Interface do Depurador
 GenericName[pt_BR]=Interface do depurador
+GenericName[sk]=Rozhranie odlaďovača
 GenericName[uk]=Клієнтська програма зневадника
 GenericName[x-test]=xxDebugger Frontendxx
 
